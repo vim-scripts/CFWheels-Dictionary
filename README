@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3116
+
+Functions where taken from http://cfwheels.org/docs/function and placed into a vim dictionary file for code completion.
+
+This was created for use at http://www.peaksystems.com, we hope you find use for it as well.
